@@ -18,7 +18,7 @@ isort==5.6.4
 itsdangerous==1.1.0
 Jinja2==2.11.2
 joblib
-jsonify==1.6.0
+jsonify==0.5
 lazy-object-proxy==1.4.3
 MarkupSafe
 mccabe==0.6.1
